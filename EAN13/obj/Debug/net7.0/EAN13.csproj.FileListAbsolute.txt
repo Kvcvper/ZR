@@ -1,0 +1,15 @@
+P:\Repos\Private\Zadania\EAN13\bin\Debug\net7.0\EAN13.exe
+P:\Repos\Private\Zadania\EAN13\bin\Debug\net7.0\EAN13.deps.json
+P:\Repos\Private\Zadania\EAN13\bin\Debug\net7.0\EAN13.runtimeconfig.json
+P:\Repos\Private\Zadania\EAN13\bin\Debug\net7.0\EAN13.dll
+P:\Repos\Private\Zadania\EAN13\bin\Debug\net7.0\EAN13.pdb
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.csproj.AssemblyReference.cache
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.GeneratedMSBuildEditorConfig.editorconfig
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.AssemblyInfoInputs.cache
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.AssemblyInfo.cs
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.csproj.CoreCompileInputs.cache
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.dll
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\refint\EAN13.dll
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.pdb
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\EAN13.genruntimeconfig.cache
+P:\Repos\Private\Zadania\EAN13\obj\Debug\net7.0\ref\EAN13.dll
